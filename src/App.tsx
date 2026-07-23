@@ -127,7 +127,7 @@ const App: React.FC = () => {
                 className={styles.button}
                 onClick={() => window.open('https://aka.ms/codeapps', '_blank')}
               >
-HB              </Button>
+Go Go !!!              </Button>
             </div>
           </Card>
 
