@@ -101,7 +101,7 @@ const App: React.FC = () => {
         <div className={styles.container}>
           <Card className={styles.card}>
             <Text className={styles.heroText}>
-              Power Platform
+              Power Platform, Hello!!!!
               <HeartRegular className={styles.heartIcon} />
               Code
             </Text>            
